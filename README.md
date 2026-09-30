@@ -1,14 +1,12 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a2e&height=200&section=header&text=Fouad%20Ait%20Ouahmad&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Offensive%20Security%20%7C%20Agentic%20Security&descAlignY=55&descSize=16" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a2e&height=200&section=header&text=Spider%20Man&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Offensive%20Security%20%7C%20Agentic%20Security&descAlignY=55&descSize=16" alt="Header" />
 </p>
 
 <!-- Whoami -->
 ### 👋 Qui je suis
 
-Étudiant en cybersécurité passionné par l'offensive security et les systèmes autonomes.
-Actuellement à la recherche d'une **alternance** pour mettre mes compétences en pratique.
-Curieux, rigoureux et toujours partant pour un nouveau challenge CTF.
+Passionné par la cybersécurité et les systèmes autonomes.
 
 ---
 
